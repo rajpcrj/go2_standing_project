@@ -69,3 +69,6 @@ tests/
 
 # Docker history
 .isaac-lab-docker-history
+
+# Local initialization marker (created by start_isaac_lab.sh)
+.isaac_initialized
